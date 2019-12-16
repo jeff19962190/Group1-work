@@ -5,5 +5,10 @@
 ## 2019/12/16
   > corse progress
   
-    i have studied the "Data Visualizaition Certification" corse.
-    And i am working on "Node and Express" corse.
+    >> i have studied the "Data Visualizaition Certification" corse.
+        D3: 29/29 tasks
+        JsonAPI & AJAX: 10/10 tasks
+        project: 5/1 task
+    >> And i am working on "Node and Express" corse.
+        NPM: 10/10 tasks
+        Node & Express: 12/2 tasks
