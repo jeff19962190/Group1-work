@@ -1,9 +1,16 @@
-## 12/15/2019
+## 12/16/2019
 > Project Status
 
-1. In progress: Ionic coaching app project ( 80% )
-2. TodoItem: Building Web App( 0% )
-> Study Plan
+## In progress: Ionic coaching app project ( 85% ), Total deadline 4days as $300 (Mobile | iPhone, back-end developmentp[CodeIgniter], Web App)
+>   _Done:_ 
+Make sure the requirement throught discussion with client, and assignment new tasks.
+>
+>   _Todo:_ 
+7 tasks(front-end and back-end) in progresss.
+<hr>
 
-1. Ionicframework
-2. Angular
+## Study Plan
+
+>1. Ionicframework
+>2. Ionic-native
+>3. Angular
