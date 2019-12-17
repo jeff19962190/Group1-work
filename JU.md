@@ -12,3 +12,8 @@
     2. And i am working on "Node and Express" corse.
        1) NPM: 10/10 tasks
        2) Node & Express: 12/2 tasks
+## 2019/12/17
+  > corse progress
+  
+    1. complete 3 data visualization project.
+    2. studied react and redux again.
