@@ -10,3 +10,4 @@
 #2019.12.17#
 1.Managing packages with npm 10/10
 2.Basic Node and Express 12/12
+And I'm studing about MongoDB with "w3schools".
