@@ -6,6 +6,7 @@
   
     backend development = 30%
 
-## 12/17
+## 12/16
+
 * I complete backend of the current Angular project.
 * number of bids : 0
