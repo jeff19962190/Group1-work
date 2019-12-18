@@ -9,7 +9,7 @@
     I modified the normal user login form and it's table in database.
 * Preregisteration project for Filitto(German).
     
-    I discussed the requirements of this project with Filitto.
+    I discussed the requirements of this project with Filitto again.
 
 ## 12/15
 
