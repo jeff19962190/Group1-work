@@ -1,3 +1,8 @@
+## 2019/12/18
+
+* MongoDB and Mongoose 11/12
+* APIs and Microservices Projects 4/5
+
 ## 2019/12/17
 
 * Managing package with npm 10/10
