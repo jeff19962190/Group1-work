@@ -1,6 +1,6 @@
 # 12/18
-    ## Bid number on task : 0
-    ## Task
+## Bid number on task : 0
+## Task
         * House-rent project(PHP)
            
            > I made a form and make a part to store the form data into database.
@@ -9,7 +9,7 @@
             
            > I built the logic of Pro user progress.
         
-    ## Study plan in this month
+## Study plan in this month
     
         * Angular animation
 ## 12/17
