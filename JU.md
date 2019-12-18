@@ -1,3 +1,10 @@
+## 12/18
+* I have studied Basic Node and Express.
+
+    11 tasks of 12
+* I am working on MoongoDB and Mongoose.
+
+    2 tasks of 12
 ## 12/17
 * complete 3 tasks of data visualization project.
 * studied react and redux again.
