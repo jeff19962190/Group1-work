@@ -1,5 +1,5 @@
 ## 12/17
-* complete 3 data visualization project.
+* complete 3 tasks of data visualization project.
 * studied react and redux again.
     
     connecting react and redux
