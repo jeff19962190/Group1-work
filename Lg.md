@@ -1,7 +1,6 @@
 ## 12/17
 
 * House-rent project for May(Spanish).
-    
     I checked out the main progress of this project, and add 4 tables into database.
 * 3D tour project for Ibrahim(Nigerian).
     
