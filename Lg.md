@@ -6,7 +6,7 @@
 
 ## 2019/12/16
 * Today, I've learned about "Data Visualization Certification" and finished it.
-- 29 of D3, 10 of JSON, 5 of Test.
+  * 29 of D3, 10 of JSON, 5 of Test.
 * Also I'm making a page with react-redux.
 
 ## 2019/12/15
