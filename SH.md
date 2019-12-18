@@ -1,17 +1,17 @@
-# 12/18
-## Bid number on task : 0
-## Task
-        * House-rent project(PHP)
+## 12/18
+### Bid number on task : 0
+### Task
+   * House-rent project(PHP)
            
-           > I made a form and make a part to store the form data into database.
+   > I made a form and make a part to store the form data into database.
          
-        * 3D tour project(Python)
+   * 3D tour project(Python)
             
-           > I built the logic of Pro user progress.
+   > I built the logic of Pro user progress.
         
-## Study plan in this month
+ ### Study plan in this month
     
-        * Angular animation
+   * Angular animation
 ## 12/17
 
 * House-rent project for May(Spanish).
