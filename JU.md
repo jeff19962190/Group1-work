@@ -1,3 +1,10 @@
+## 12/19
+* I have studied MongoDB and Mongoose.
+
+    12/12 tasks
+* I have studied about MERN stack.
+    
+    creating the ERN stack. Without mongoDB.
 ## 12/18
 * I have studied Basic Node and Express.
 
