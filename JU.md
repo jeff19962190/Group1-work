@@ -3,6 +3,8 @@
 
     12/12 tasks
 * I have studied about MERN stack.
+    
+    creating the ERN stack. Without mongoDB.
 ## 12/18
 * I have studied Basic Node and Express.
 
