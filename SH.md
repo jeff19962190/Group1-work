@@ -1,3 +1,16 @@
+# 12/19
+### Bid number on task : 0
+### Task
+   * Angular project(German)
+           
+   > I added 2 components for Login and Commingsoon.
+   > And add routes.
+         
+   * 3D tour project(Python)
+            
+   > I changed "how it works" part and added Bio description, user type into normal user registeration form.
+        
+
 # 12/18
 ### Bid number on task : 0
 ### Task
