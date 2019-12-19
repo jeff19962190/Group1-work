@@ -1,3 +1,8 @@
+## 2019/12/19
+
+* I've reviewed about Node.js, Express, Mongoose.
+* I'm making a page with MERN stack
+
 ## 2019/12/18
 
 * MongoDB and Mongoose 11/12
