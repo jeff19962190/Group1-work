@@ -1,6 +1,6 @@
 ## 2019/12/20
 
-* I've maked login page.
+* I've made login page.
   * created db
   * complete login backend
 
