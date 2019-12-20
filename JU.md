@@ -1,3 +1,8 @@
+## 12/20
+* I have studied MERN stack.
+
+    I have studied react for front end and using method of MDBbootstrap.
+    I am buliding a test project.
 ## 12/19
 * I have studied MongoDB and Mongoose.
 
