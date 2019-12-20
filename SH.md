@@ -1,3 +1,17 @@
+# 12/20
+### Bid number on task : 0
+### Task
+   * Angular project(German)
+           
+   > I rebuilt this project from scratch with Material not using MDBootstrap.
+   > And built landing page.
+         
+   * 3D tour project(Python)
+            
+   > I changed the descriptions of "how realtour works" part and changed the firstpage style.
+        
+
+
 # 12/19
 ### Bid number on task : 0
 ### Task
