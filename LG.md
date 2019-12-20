@@ -1,3 +1,9 @@
+## 2019/12/20
+
+* I've made login page.
+  * created db
+  * complete login backend
+
 ## 2019/12/19
 
 * I've reviewed about Node.js, Express, Mongoose.
