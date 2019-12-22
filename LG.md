@@ -1,7 +1,13 @@
 ## 2019/12/22
 
+> Studing Status.
+
 * I've experienced about mern stack.
   * Implemented userlist page.
+  
+> Plan
+
+* Study more about React, Redux.
 
 ## 2019/12/20
 
