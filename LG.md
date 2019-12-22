@@ -1,3 +1,15 @@
+## 2019/12/22
+
+> Studing Status.
+
+* I've experienced about mern stack.
+  * Implemented userlist page.
+  * I've used mdbreact: such as MDBTable, MDBNavBar
+  
+> Plan
+
+* Study more about React, Redux.
+
 ## 2019/12/20
 
 * I've made login page.
