@@ -1,9 +1,24 @@
 ## 12/22
 **_Done_**
 
-** sd
-** sd
-** sd
+    * I have studied MERN stack.
+    
+   ** I have completed the part: sending and receiveing data between react and express.
+    And also saved data to mongoDB.
+    
+   * I have studied MDBbootstrap.
+   
+   * I am studing redux for test project.
+   
+**_Todo_**
+
+    * Update, Delete, Read data from Mongodb and send to react.
+    
+    * Receive it and show in MDBtable.
+    
+    * Use redux in test project.
+
+    
 ## 12/20
 * I have studied MERN stack.
 
