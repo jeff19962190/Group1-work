@@ -1,3 +1,12 @@
+# 12/22
+### Bid number on task : 0
+
+### Task
+   * Angular project(German)
+           
+   > Frontend - I rebuilt registeration form with Angular Material.
+   > Backend - I fixed User schema.
+
 # 12/20
 ### Bid number on task : 0
 ### Task
@@ -10,6 +19,7 @@
             
    > I changed the descriptions of "how realtour works" part and changed the firstpage style.
         
+
 
 
 # 12/19
