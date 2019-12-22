@@ -1,10 +1,10 @@
 ## 12/22
 **_Done_**
 
-    * I have studied MERN stack.
+   * I have studied MERN stack.
     
-   ** I have completed the part: sending and receiveing data between react and express.
-    And also saved data to mongoDB.
+      I have completed the part: sending and receiveing data between react and express.
+      And also saved data to mongoDB.
     
    * I have studied MDBbootstrap.
    
