@@ -6,7 +6,7 @@
 * Also I did "Quality Assuarance and Testing with Chai".(21/24)
 * And I've learnt about Route, Switch and Selector in react, redux.
 
-> Studding Plan
+> Plan
 
 * Complete "Quality Assuarance and Testing with Chai"
 * Studing "Advance Node and Express"
