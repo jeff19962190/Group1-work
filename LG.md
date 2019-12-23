@@ -1,3 +1,16 @@
+## 2019/12/23
+
+> Studing Status
+
+* I've completed "Information Security with HelmetJS".(14/14)
+* Also I did "Quality Assuarance and Testing with Chai".(21/24)
+* And I've learnt about Route, Switch and Selector in react, redux.
+
+> Plan
+
+* Complete "Quality Assuarance and Testing with Chai"
+* Studing "Advance Node and Express"
+
 ## 2019/12/22
 
 > Studing Status.
