@@ -1,3 +1,19 @@
+## 12/23
+**_Done_**
+
+   * I have practised saving data to MongoDB from front end and sending data to front end's table from MongoDB.
+    
+   * I have studied React-Redux.
+   
+**_Todo_**
+
+   * Update, Delete data from Mongodb in test project.
+    
+   * Apply redux in test project.
+   
+   * Study the freecodecamp course.
+
+    
 ## 12/22
 **_Done_**
 
