@@ -1,3 +1,31 @@
+# 12/23
+### Bid number on task : 2
+
+### Task
+   * Angular project(German) - done(100%)
+           
+   > I performed the form validation of the landing page, and fixed the issues from Material Component. 
+   > I completed the backend.
+   
+   * Python project(Nigeria)
+   
+   > Built the logic of Admin page and added database tables for this part.
+   
+### Improvemence
+  
+  * I have researched the "10 Mistakes You make if you are a Django developer" from Linkedin.
+  
+  > Mistake 1: Not Wrapping Project's All Dependencies like Python and Django libraries in a requirements.txt File
+  
+  > Mistake 2: Using the Global System Python Environment for Project Dependencies
+  
+  > Mistake 3: Using Old-style Python Functions Instead of Class-based Views
+  
+  > Mistake 4: Writing Fat Views and Skinny Models
+  
+  > Mistake 5: A Huge, Unmanageable Settings File
+
+
 # 12/22
 ### Bid number on task : 0
 
