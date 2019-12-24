@@ -1,3 +1,21 @@
+## 12/24
+**_Done_**
+
+   * I have studied freecodecamp course.
+    
+      Studied HelmetJs course 14/14.
+      Studied Advanced node and express course 5/22.
+   * I have studied React-Redux and practised MERN stack project.
+   
+      Anaysied the redux example "todo".
+   
+**_Todo_**
+
+   * Freecodecamp course.
+    
+   * Build MERN stack project.
+   
+
 ## 12/23
 **_Done_**
 
