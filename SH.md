@@ -1,3 +1,26 @@
+# 12/24
+### Bid number on task : 3
+
+### Task
+   
+ * Python project(Nigeria)
+   
+   > I completed the normal user registeration part with country-state-city input field.
+   
+### Improvemence
+  
+  * I have researched the "10 Mistakes You make if you are a Django developer" from Linkedin.
+  
+  > Mistake No. 6: All-in-one Application, Bad Application Structure, and Incorrect Resource Placement
+  
+  > Mistake No. 7: STATICFILES_DIRS and STATIC_ROOT Confuse Newbie Django Developers
+  
+  > Mistake No. 8: Default STATICFILES_STORAGE, Django Templates Loaders in Production
+  
+  > Mistake No. 9: Pure Python Scripts for Utilities or Scripts
+  
+  > Mistake No. 10: Reinventing the Wheel
+
 # 12/23
 ### Bid number on task : 2
 
