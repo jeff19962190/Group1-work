@@ -1,3 +1,16 @@
+## 2019/12/24
+
+> Studing Status
+
+* I did "Quality Assuarance and Testing with Chai".(23/24)
+* I did "Advance Node and Express".(2/24)
+* I made a page with react-redux.(using reselect)
+
+> Plan
+
+* Complete "Advance Node and Express"
+* Complete page.
+
 ## 2019/12/23
 
 > Studing Status
