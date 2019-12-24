@@ -1,3 +1,51 @@
+## 12/23/2019
+
+## In progress Projects: 
+
+**_Done:_**
+
+>Ionic coaching app project ( 95% ), Total deadline 4days as $300 (Mobile | iPhone, back-end developmentp[CodeIgniter], Web App)
+
+>1. Implement Web portal for Back-end(65%)
+
+[Magento]
+
+>1. Building Home page from scratch ( 20% )
+>2. Analyze Requirment of Project
+>3. Install free themes and extension to init development website on the local
+
+
+**_Todo:_**
+
+[Ionic coaching app project]
+
+>1. Implement Web portal for Back-end (80%)
+
+[Magento]
+
+>>1. Building Home page from scratch (50%)
+
+## Bidding
+
+**_Done:_**
+
+>I've sent 3 proposals on guru.com and 2 candidates on peopleperhour.com
+
+## Study Plan
+
+**_Done:_**
+
+>1. Magento Front-end development
+>2. Magento Foundation Development
+
+**_Todo:_**
+>1. Magento Back-end development
+
+ <hr>
+ <hr>
+
+
+
 ## 12/22/2019
 
 ## In progress Projects: 
