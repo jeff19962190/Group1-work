@@ -1,3 +1,49 @@
+## 12/25/2019
+
+## In progress Projects: 
+
+**_Done:_**
+
+[Ionic project is paused until this weekend]
+>Ionic coaching app project ( 95% ), Total deadline 4days as $300 (Mobile | iPhone, back-end developmentp[CodeIgniter], Web App)
+
+>1. Implement Web portal for Back-end(70%)
+
+[Magento]
+
+>1. Building Home page from scratch ( 35% )
+>2. Initialize marketplace on my magento2.3
+>2. Analyze Requirment of Project
+>3. Create a new Theme from customizing Smartwave Theme ( 20% )
+
+
+**_Todo:_**
+
+[Magento]
+
+>1. Building Home page from scratch (50%)
+>2. Configuration marketplace on my magento2.3
+
+## Bidding
+
+**_Done:_**
+
+>I didn't bid nothing today because there is not any job to match my skills.
+
+## Study Plan
+
+**_Done:_**
+>1. Magento Front-end development
+>2. Magento Foundation Development
+>3. Magento Multi Vendor Extension
+**_Todo:_**
+>1. Magento Back-end development
+>2. Marketplace Configuration (Multi Vendor)
+
+ <hr>
+ <hr>
+
+
 ## 12/24/2019
 
 ## In progress Projects: 
