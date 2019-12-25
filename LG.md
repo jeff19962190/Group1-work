@@ -2,7 +2,7 @@
 
 > Studing Status
 
-* I finished pages.(using reselect)
+* I finished pages that using react-redux.(using reselect of redux)
 * I did "Advance Node and Express".(4/24)
 
 > Plan
