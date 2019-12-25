@@ -1,4 +1,19 @@
 # 12/24
+### Bid number on task : 2
+
+### Task
+ 
+ * Angular project(German)
+   
+   >  I built this project into production mode and hosted it to Heroku server.
+   >  I discussed new additional requirements with client.
+   
+ * Python project(Nigeria)
+   
+   > I rebuilt country-state-city input using with zelect(jquery plugin)
+   
+
+# 12/24
 ### Bid number on task : 3
 
 ### Task
