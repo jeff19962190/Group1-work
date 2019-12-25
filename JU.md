@@ -1,3 +1,22 @@
+## 12/25
+**_Done_**
+
+   * I have studied freecodecamp course.
+    
+      Studied Advanced node and express course 15/22.
+      
+   * I have studied MERN stack and practised on my project.
+   
+      Designed 2 simple pages using MDBootstrap.
+   
+**_Todo_**
+
+   * Freecodecamp course.
+    
+   * Go on my MERN stack project.
+   
+      Connect to backend and mongoDB.
+   
 ## 12/24
 **_Done_**
 
