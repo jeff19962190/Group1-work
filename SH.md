@@ -6,6 +6,7 @@
  * Angular project(German)
    
    >  I built this project into production mode and hosted it to Heroku server.
+   
    >  I discussed new additional requirements with client.
    
  * Python project(Nigeria)
