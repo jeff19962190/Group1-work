@@ -1,3 +1,14 @@
+## 2019/12/25
+
+> Studing Status
+
+* I finished pages.(using reselect)
+* I did "Advance Node and Express".(4/24)
+
+> Plan
+
+* Learning Redux-Saga
+
 ## 2019/12/24
 
 > Studing Status
