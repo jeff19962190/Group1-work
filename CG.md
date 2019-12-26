@@ -1,3 +1,59 @@
+## 12/26/2019
+
+## In progress Projects: 
+
+**_Done:_**
+
+[Ionic project is paused until this weekend]
+>Ionic coaching app project ( 95% ), Total deadline 4days as $300 (Mobile | iPhone, back-end developmentp[CodeIgniter], Web App)
+
+>1. Implement Web portal for Back-end(70%)
+
+[Magento]
+
+>1. Building Home page from scratch ( 40% )
+>2. Initialize marketplace on my magento2.3
+>3. Convert Magento Commerce to Magento Marketplace
+>4. Configuration Magento Marketplace on my local development site (50%)
+>5. Deploy the result to my local staging site
+>6. Analyze Requirment of Project
+>7. Create a new Theme from customizing Smartwave Theme ( 30% )<br>
+>  7.1 Pick up the theme header, fooder and left menu similar to the design.<br>
+>  7.2 Customization the category widget
+
+
+**_Todo:_**
+
+[Magento]
+
+>1. Building Home page from scratch (60%)
+>2. Configuration Magento Marketplace on my local development site (100%)
+>3. Deploy the result to my local staging site.
+>4. Building a new store with sample data on my development site to develop auction theme and extension
+
+## Bidding
+
+**_Done:_**
+
+>I didn't bid anything today because there is not any job to match my skills.
+
+## Study Plan
+
+**_Done:_**
+
+>1. Magento Foundation Development
+>2. Initialization Magento Marketplace
+
+**_Todo:_**
+>1. Magento Back-end development
+>2. Magento Marketplace Configuration (Multi Vendor)
+
+ <hr>
+ <hr>
+
+
+
+
 ## 12/25/2019
 
 ## In progress Projects: 
@@ -36,6 +92,7 @@
 >1. Magento Front-end development
 >2. Magento Foundation Development
 >3. Magento Multi Vendor Extension
+
 **_Todo:_**
 >1. Magento Back-end development
 >2. Marketplace Configuration (Multi Vendor)
