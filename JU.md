@@ -1,3 +1,23 @@
+## 12/26
+**_Done_**
+
+   * I have studied MERN stack and practised on my project.
+   
+      Connected redux and react.
+      
+      Bulit backend and connect with mongoDB.
+      
+      Insert user infomation into database sent from the front end.
+      
+      
+   * I am studing about saga.
+   
+**_Todo_**
+
+   * Freecodecamp course.
+    
+   * Study saga.
+   
 ## 12/25
 **_Done_**
 
