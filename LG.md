@@ -1,3 +1,13 @@
+## 2019/12/26
+
+> Studing Status
+
+* I studied about redux-saga and implemented it.
+
+> Plan
+
+* Learning Laravel
+
 ## 2019/12/25
 
 > Studing Status
