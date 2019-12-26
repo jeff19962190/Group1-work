@@ -1,3 +1,48 @@
+# 12/26
+### Bid number on task : 5
+
+### Task
+ 
+ * Angular project(German)
+   
+   >  I fixed some issues and added new requirements.
+    
+     1. footer color
+     
+     2. calendar date
+     
+     3. auto generate password
+     
+     4. menu (2 adds)
+     
+     5. video (popup windows)
+
+   
+ * Python project(Nigeria)
+   
+   > I implemented profile photo upload part.
+   
+### Improvemence
+ 
+  #### * Frontend Web Developer Roadmap
+   
+    > Basic Seo Html
+    
+      - Title tag
+      
+      - Meta description tag
+      
+      - Header tag
+      
+      - Image alt tag
+      
+      - Nofollow link tag
+      
+      - Links and anchor text tags
+      
+      - Canonical tag
+   
+
 # 12/25
 ### Bid number on task : 2
 
