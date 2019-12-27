@@ -1,3 +1,14 @@
+## 12/27
+**_Done_**
+
+   * I have studied redux-saga.
+      
+   
+**_Todo_**
+
+   * Study saga and react, express, mongoose again.
+    
+   
 ## 12/26
 **_Done_**
 
