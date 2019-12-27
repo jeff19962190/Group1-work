@@ -1,3 +1,15 @@
+## 2019/12/27
+
+> Studing Status
+
+* I reviewd about php.
+* I studied about redux-thunk.
+
+> Plan
+
+* continue studing redux-thunk.
+* Learning about GraphQL.
+
 ## 2019/12/26
 
 > Studing Status
