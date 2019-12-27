@@ -1,3 +1,14 @@
+# 12/27
+### Bid number on task : 0
+
+### Task
+   
+ * Python project(Nigeria)
+   
+   > I fixed issues from profile photo upload part and completed it.
+   
+   > I implemented session management part.
+
 # 12/26
 ### Bid number on task : 5
 
