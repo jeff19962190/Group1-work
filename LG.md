@@ -3,6 +3,7 @@
 > Studing Status
 
 * I made a landing page of "Trello".
+  * I made 9 components.
   * complete basic layout.
 > Plan
 
