@@ -1,4 +1,63 @@
-# 12/27/2019
+
+## 12/30/2019
+
+## In progress Projects: 
+
+**_Done:_**
+
+[Ionic project]
+>Ionic coaching app project ( 95% ), Total deadline 4days as $300 (Mobile | iPhone, back-end development [CodeIgniter], Web App)
+>1. Started again the project from now on.
+>2. Implement Web portal for Back-end(80%)
+
+[Magento]
+
+>1. Building Home page from scratch ( 50% )
+>2. Configuration Magento Marketplace on my local development site(100%)
+>3. Setup Multi Stores Attributes on my development environment.(70%)
+>4. Development Store Location extension for Store registoration. (60%)
+
+
+
+**_Todo:_**
+
+[Ionic project]
+
+>1. Implement Web portal for Back-end(100%)
+>2. Development the additional task (30%)
+
+
+[Magento]
+
+>1. Building Home page from scratch (70%)
+>2. Deploy the result to my local staging site.
+>3. Devlopment Store Location extension for Store registoration (100%)
+
+## Bidding
+
+**_Done:_**
+
+>I didn't bid anything today because there is not any job to match my skills.
+
+## Study Plan
+
+**_Done:_**
+
+>1. Setup Multi Store Knowledge
+>2. Initialization Magento Marketplace
+
+**_Todo:_**
+>1. Magento Back-end development
+>2. Google Locator for Magento Marketplace
+>2. Magento Marketplace Configuration (Multi Vendor | Multi Store)
+
+ <hr>
+ <hr>
+
+
+
+
+# 12/28/2019
 
 ## Remove and Install System of my computer.
 
