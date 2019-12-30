@@ -1,3 +1,13 @@
+## 2019/12/30
+
+> Studing Status
+
+* I maked a landing page of "Trello".
+
+> Plan
+
+* Finish "Trello" landing page.
+
 ## 2019/12/29
 
 > Studing Status
