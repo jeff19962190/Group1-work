@@ -1,3 +1,17 @@
+# 12/27/2019
+
+## Remove and Install System of my computer.
+
+## Prepair my system again.
+
+## Install driver from dell.com on a new system. 
+
+## Install programs for development environment.
+
+<hr>
+<hr>
+
+
 ## 12/27/2019
 
 ## In progress Projects: 
