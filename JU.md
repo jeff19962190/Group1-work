@@ -1,3 +1,18 @@
+## 12/30
+**_Done_**
+
+   * I have laied out the first page of trello. 
+   
+      Not finished yet.
+      
+      Responsive and animation, detail of components did not complete.
+      
+   
+**_Todo_**
+
+   * Complete the first page.
+   
+
 ## 12/29
 **_Done_**
 
