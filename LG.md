@@ -2,7 +2,7 @@
 
 > Studing Status
 
-* I maked a landing page of "Trello".
+* I made a landing page of "Trello".
 
 > Plan
 
