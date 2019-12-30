@@ -3,10 +3,11 @@
 > Studing Status
 
 * I made a landing page of "Trello".
-
+  * complete basic layout.
 > Plan
 
 * Finish "Trello" landing page.
+  * add animation, carousel, country language list.
 
 ## 2019/12/29
 
