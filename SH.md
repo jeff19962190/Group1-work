@@ -1,3 +1,16 @@
+# 12/28
+### Bid number on task : 4
+
+### Task
+   
+ * Python project(Nigeria)
+   
+   > I built the profile page.
+   
+ * Angular project(German)
+ 
+   > Modified the menu, password form input field animation.
+
 # 12/27
 ### Bid number on task : 0
 
