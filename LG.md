@@ -1,3 +1,15 @@
+## 2019/12/30
+
+> Studing Status
+
+* I made a landing page of "Trello".
+  * I made 9 components.
+  * complete basic layout.
+> Plan
+
+* Finish "Trello" landing page.
+  * add animation, carousel, country language list.
+
 ## 2019/12/29
 
 > Studing Status
