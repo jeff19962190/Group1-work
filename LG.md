@@ -1,3 +1,14 @@
+## 2019/12/29
+
+> Studing Status
+
+* I have studied about react-animation.
+* Also, I've studied about angular.
+
+> Plan
+
+* Start Trello Project.
+
 ## 2019/12/27
 
 > Studing Status
