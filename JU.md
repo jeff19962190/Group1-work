@@ -1,3 +1,20 @@
+## 12/29
+**_Done_**
+
+   * I have studied redux-saga.
+   
+   * I have studied jQueryUI and css again.
+   
+   * I have analyzed Trello site functions.
+      
+   
+**_Todo_**
+
+   * Make sure the components and structure of the first page.
+   
+   * Build the page.(70%)
+
+
 ## 12/27
 **_Done_**
 
