@@ -1,3 +1,14 @@
+## 12/31
+**_Done_**
+
+   * I have built the first page of trello(80%). 
+   
+   
+**_Todo_**
+
+   * Complete the first page.
+   
+
 ## 12/30
 **_Done_**
 
