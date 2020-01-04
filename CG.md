@@ -1,3 +1,58 @@
+# 12/31/2019
+
+## In progress Projects: 
+
+**_Done:_**
+
+[CodeIgniter project]
+>1. CodeIgniter Backend Project (Email Server, Quotes Management, Realtime Notification before start Coaching)(70%).
+>2. Implement Web portal for Back-end(80%)
+
+[Magento]
+
+>1. Building Home page from scratch ( 50% )
+>2. Development Store Location extension for Store registoration. (70%)
+
+
+
+**_Todo:_**
+
+[Ionic project]
+
+>1. Implement Web portal for Back-end(100%)
+>2. Development the additional task (30%)
+
+
+[Magento]
+
+>1. Building Home page from scratch (70%)
+>2. Deploy the result to my local staging site.
+>3. Devlopment Store Location extension for Store registoration (100%)
+
+## Bidding
+
+**_Done:_**
+
+>I didn't bid anything today because there is not any job to match my skills.
+
+## Study Plan
+
+**_Done:_**
+
+>1. Setup Multi Store Knowledge
+>2. Initialization Magento Marketplace
+
+**_Todo:_**
+>1. Magento Back-end development
+>2. Google Locator for Magento Marketplace
+>2. Magento Marketplace Configuration (Multi Vendor | Multi Store)
+
+ <hr>
+ <hr>
+
+
+
+
 
 ## 12/30/2019
 
