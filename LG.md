@@ -1,3 +1,10 @@
+## 2019/12/31
+
+> Studing Status
+
+* I have added a transition to navbar of Trello landing page.
+* I have learned about carousel, transition in react.
+
 ## 2019/12/30
 
 > Studing Status
