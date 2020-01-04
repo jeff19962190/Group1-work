@@ -1,3 +1,16 @@
+## 2020/1/1
+
+> Studing Status
+
+* I have finished a Trello landing page.
+* I'm making login page.
+  * login form finished.
+  
+> Plan
+
+* Finish login page.
+* Making sign up page.
+
 ## 2019/12/31
 
 > Studing Status
