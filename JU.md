@@ -1,3 +1,45 @@
+## 2020/01/05
+**_Done_**
+
+   * I have completed the first page of trello.
+   
+   * I have completed the signup page.
+   
+   
+**_Todo_**
+
+   * Make sure the logic of Login part and trello system.
+   
+   * Build the login part.
+   
+## 2020/01/04
+**_Done_**
+
+   * I have built the first page of trello.
+   
+      Not responsive.
+   
+   * I have built the signup page.
+   
+      Not finished yet.
+   
+   
+**_Todo_**
+
+   * Complete the first and signup page and responsive.
+   
+
+## 12/31
+**_Done_**
+
+   * I have built the first page of trello(80%). 
+   
+   
+**_Todo_**
+
+   * Complete the first page.
+   
+
 ## 12/30
 **_Done_**
 
