@@ -1,3 +1,49 @@
+# 1/5/2020
+
+### Bid number : 5
+
+### Task
+
+   * Python project(Realtourhub)
+      >  I have worked Professional User search page(30%).
+
+# 1/4/2020
+
+### Bid number : 4
+
+### Task
+
+   * Python project(Realtourhub)
+      >  I completed Professional User profile page.
+
+# 12/31
+
+### Bid number :0
+
+### Task
+
+   * Python project(Realtourhub)
+      >  I completed Professional User Session.
+
+# 12/30
+
+### Bid number : 5
+
+### Task
+
+   * Python project(Realtourhub)
+      >  I completed Professional User Auth.
+
+# 12/29
+
+### Bid number : 2
+
+### Task
+
+   * Python project(Realtourhub)
+      >  I completed Normal User Auth.
+
+
 # 12/28
 ### Bid number on task : 4
 
