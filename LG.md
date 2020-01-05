@@ -1,3 +1,34 @@
+## 2020/1/5
+
+> Studing Status
+
+* I have made login and signup page.
+* I have made translating locally.(chinese)
+  
+> Plan
+
+* Connect to backend.
+
+## 2020/1/4
+
+> Studing Status
+
+* I have finished a Trello landing page.
+* I'm making login page.
+  * login form finished.
+  
+> Plan
+
+* Finish login page.
+* Making sign up page.
+
+## 2019/12/31
+
+> Studing Status
+
+* I have added a transition to navbar of Trello landing page.
+* I have learned about carousel, transition in react.
+
 ## 2019/12/30
 
 > Studing Status
