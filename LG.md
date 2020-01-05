@@ -1,4 +1,15 @@
-## 2020/1/1
+## 2020/1/5
+
+> Studing Status
+
+* I have made login and signup page.
+* I have made translating locally.(chinese)
+  
+> Plan
+
+* Connect to backend.
+
+## 2020/1/4
 
 > Studing Status
 
