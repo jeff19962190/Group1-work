@@ -1,3 +1,32 @@
+# 01/05/2020
+
+## In progress Projects: 
+
+**_Done:_**
+
+[Magento]
+
+>1. Building Home page from scratch ( 80% )
+>2. Development Store Location extension for Store registoration. (80%)
+
+ <hr>
+
+
+
+
+
+
+# 01/04/2020
+
+> I didn't work today because I've had bad cold.
+
+ <hr>
+ <hr>
+
+
+
+
+
 # 12/31/2019
 
 ## In progress Projects: 
