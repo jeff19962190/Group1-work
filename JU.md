@@ -1,3 +1,19 @@
+## 01/06
+**_Done_**
+
+   * I have studied about token.
+   
+     Not understand perfectly yet.
+   
+   * I have registed the request data from front end in mongoose.
+   
+   
+**_Todo_**
+   
+   * Understand JWT perfectly.
+   
+   * Athenticate user using JWT.
+   
 ## 2020/01/05
 **_Done_**
 
