@@ -1,3 +1,14 @@
+## 2020/1/6
+
+> Studing Status
+
+* I am studing about jwt token.
+* I've analyzed about theracingmanager site code that made in React.
+  
+> Plan
+
+* Implement authentication.
+
 ## 2020/1/5
 
 > Studing Status
