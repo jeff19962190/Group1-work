@@ -1,3 +1,47 @@
+# 01/06/2020
+
+## In progress Projects: 
+
+**_Done:_**
+
+[Magento]
+
+>1. Building Home page from scratch ( 85% )
+>2. Development Store Location extension for Store registoration. (85%)
+
+
+
+**_Todo:_**
+
+[Magento]
+
+>1. Building Home page from scratch (90%)
+>2. Deploy the result to my local staging site.
+>3. Devlopment Store Location extension for Store registoration (100%)
+
+## Bidding
+
+**_Done:_**
+
+>I didn't bid anything today because there is not any job to match my skills.
+
+## Study Plan
+
+**_Done:_**
+
+>1. Magento Back-end development
+>2. Initialization Magento Marketplace
+
+**_Todo:_**
+>1. Magento Back-end development
+>2. Magento Marketplace Configuration (Multi Vendor | Multi Store)
+
+ <hr>
+ <hr>
+
+
+
+
 # 01/05/2020
 
 ## In progress Projects: 
