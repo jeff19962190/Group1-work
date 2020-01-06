@@ -1,3 +1,12 @@
+# 1/6/2020
+
+### Bid number : 3
+
+### Task
+
+   * Python project(Realtourhub)
+      >  I have worked Professional User search page(70%).
+
 # 1/5/2020
 
 ### Bid number : 5
