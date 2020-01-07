@@ -1,3 +1,23 @@
+# 1/7/2020
+
+### Bid number : 4
+
+### Task
+
+   * Python project(Realtourhub)
+      >  I have worked Professional User search page(90%).
+     
+   * PHP project(Tucasapanama)
+   
+      >  I built the logic of managing data.
+
+### Study
+    
+    * I reviewed Angular basics via course videos. 
+    
+    * And I studied "5 bad habits of developers" on Linkedin.
+    
+
 # 1/6/2020
 
 ### Bid number : 3
