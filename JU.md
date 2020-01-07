@@ -1,3 +1,19 @@
+## 01/07
+**_Done_**
+
+   * I have studied about token.
+   
+   * I have studied about thunk middleware.
+   
+   * I have built the login page and sign up page using token.
+   
+   
+**_Todo_**
+   
+   * Study the passport and bulid the login page usign that.
+   
+   * Build the dashboard page.
+   
 ## 01/06
 **_Done_**
 
