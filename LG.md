@@ -1,3 +1,14 @@
+## 2020/1/7
+
+> Studing Status
+
+* I am studing about passport.
+* I've made sign up, log in pages with authentication.
+  
+> Plan
+
+* Implement main page.
+
 ## 2020/1/6
 
 > Studing Status
