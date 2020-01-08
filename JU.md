@@ -1,7 +1,7 @@
 ## 01/07
 **_Done_**
 
-   * Jack1993116/JU_trello
+   * Jack1993116/JUTrello
 
    * I have studied about token.
    
