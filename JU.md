@@ -1,6 +1,8 @@
 ## 01/07
 **_Done_**
 
+   * Jack1993116/JU_trello
+
    * I have studied about token.
    
    * I have studied about thunk middleware.
