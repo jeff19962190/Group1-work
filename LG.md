@@ -2,6 +2,7 @@
 
 > Studing Status
 
+* _jack1993116/trello_
 * I am studing about passport.
 * I've made sign up, log in pages with authentication.
   
@@ -13,7 +14,6 @@
 
 > Studing Status
 
-* _jack1993116/trello_
 * I am studing about jwt token.
 * I've analyzed about theracingmanager site code that made in React.
   
