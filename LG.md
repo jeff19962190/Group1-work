@@ -1,3 +1,14 @@
+## 2020/1/8
+
+> Studing Status
+
+* I've made part of dashboard.
+  * construct about header and its buttons.
+  * made sidenav component
+> Plan
+
+* Continue implementing main page.
+
 ## 2020/1/7
 
 > Studing Status
