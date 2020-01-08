@@ -1,3 +1,21 @@
+## 01/08
+**_Done_**
+
+   * Jack1993116/JUTrello
+
+   * I have studied about token and passport.
+   
+   * I have analysed mern example using passport and token.
+   
+   * I am building dash board page.
+   
+   
+**_Todo_**
+   
+   * Build the dashboard page.
+   
+   * Study passport.
+   
 ## 01/07
 **_Done_**
 
