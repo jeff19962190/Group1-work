@@ -1,3 +1,22 @@
+# 1/9/2020
+
+### Bid number : 10
+
+### Task
+
+   * Python project(Realtourhub)
+     
+     > I fixed profile page components according to the client's new requirements.
+     
+     > I built the logic when we follow pros. 
+     
+### Study
+
+    * I studied about passport and JWT.
+    
+    * I researched about Angular Metronic themes and Angular CDK.
+   
+   
 # 1/8/2020
 
 ### Bid number : 5
