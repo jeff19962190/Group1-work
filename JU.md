@@ -1,3 +1,26 @@
+## 01/09
+**_Done_**
+
+   * Jack1993116/JUTrello
+
+   * I have studied about token and passport again.
+   
+   * I have analysed mern example using JWT passport and local passport and understand the passport.
+   
+   * I am building dashboard page using jwt passport to verify the request.
+    
+      Not finished yet.
+   
+   
+**_Todo_**
+   
+   * Go on the dashboard page.
+   
+   * Study social login method using passport like google passport.
+   
+   * Design the database of trello site.
+   
+   
 ## 01/08
 **_Done_**
 
