@@ -1,3 +1,25 @@
+# 01/08/2020
+
+## In progress Projects: 
+
+**_Done:_**
+
+[Magento]
+
+>1. Implement header and footer on home page (99%)
+
+**_Todo:_**
+
+[Magento]
+
+>1. Implement header and footer on home page (100%)
+
+## Bidding
+
+[I will do send 10 proposals every day.]
+
+
+
 # 01/07/2020
 
 ## In progress Projects: 
