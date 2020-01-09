@@ -1,3 +1,14 @@
+## 2020/1/9
+
+> Studing Status
+
+* I've made passport-local authenticate to backend.
+* And add a component to frontend.
+
+> Plan
+
+* Continue implementing main page.
+
 ## 2020/1/8
 
 > Studing Status
