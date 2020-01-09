@@ -4,10 +4,12 @@
 
 * I've made passport-local authenticate to backend.
 * And add a component to frontend.
+* I've learned about MediaQuery in react.
 
 > Plan
 
 * Continue implementing main page.
+  * complete sidenav and list-items.
 
 ## 2020/1/8
 
