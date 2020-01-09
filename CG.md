@@ -1,3 +1,26 @@
+# 01/09/2020
+
+## In progress Projects: 
+
+**_Done:_**
+
+[Magento]
+
+>1. Fix the issues and errors while integrating Porto theme with magento 2.3.3
+>2. Home page (90%)
+
+**_Todo:_**
+
+[Magento]
+
+>1. Implement header and footer on home page (100%)
+>2. Building About us page
+
+## Bidding
+
+>Sent 3 proposals on guru.com.
+
+
 # 01/08/2020
 
 ## In progress Projects: 
