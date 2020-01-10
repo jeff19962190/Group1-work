@@ -1,3 +1,23 @@
+## 01/10
+**_Done_**
+
+   * Jack1993116/JUTrello
+   
+   * I have studied the passport-google module.
+
+   * I have designed database for dashboard page.
+   
+   * I have gone on dashboard page.
+      
+   
+   
+**_Todo_**
+   
+   * Go on the dashboard page.
+   
+   * Go on studing about social login method using passport like google passport.
+   
+   
 ## 01/09
 **_Done_**
 
