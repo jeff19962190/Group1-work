@@ -2,6 +2,7 @@
 
 > Studing Status
 
+* _jack1993116/trello_
 * I've made passport-local authenticate for register to backend.
 * And add a component to frontend.
   * I've made a createboard component and added it.
