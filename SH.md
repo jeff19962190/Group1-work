@@ -1,3 +1,20 @@
+# 1/10/2020
+
+### Bid number : 7
+
+### Task
+
+   * Python project(Realtourhub)
+     
+     > I worked on "follow pros" part - modified database tables and backend code. (30%)
+   
+### Study
+
+  > I researched about Squarespace framework.
+  
+  > I studied the concept of SOLID coding style.
+     
+
 # 1/9/2020
 
 ### Bid number : 10
