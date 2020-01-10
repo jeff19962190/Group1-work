@@ -1,3 +1,20 @@
+## 2020/1/10
+
+> Studing Status
+
+* I've made passport-local authenticate for register to backend.
+* And add a component to frontend.
+  * I've made a createboard component and added it.
+  * Also boardlistitem is created and added to dashboard.
+  * And add a sidenav and its items.
+
+> Plan
+
+* Continue implementing main page.
+  * Design db datas.
+  * Design and add board states.
+  * Add create board usecase.
+  
 ## 2020/1/9
 
 > Studing Status
