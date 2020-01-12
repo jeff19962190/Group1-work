@@ -1,3 +1,21 @@
+## 01/12
+**_Done_**
+
+   * Jack1993116/JUTrello
+   
+   * I have gone on dashboard page.
+   
+      I have done creating new board and saving in database and geting board data from MngooDB.
+   
+**_Todo_**
+   
+   * Go on the dashboard page.
+   
+      Build the main page of new board.
+   
+   * Make a plan of this year.
+   
+   
 ## 01/10
 **_Done_**
 
