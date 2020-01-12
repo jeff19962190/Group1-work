@@ -1,3 +1,18 @@
+## 2020/1/11
+
+> Studing Status
+
+* _jack1993116/trello_
+* I've changed createboard and createteam.
+* I've learnt about react-bootstrap and it's usage.
+
+> Plan
+
+* Continue implementing main page.
+  * Design db datas.
+  * Design and add board states.
+  * Add create board usecase.
+  
 ## 2020/1/10
 
 > Studing Status
