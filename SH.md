@@ -1,3 +1,20 @@
+# 1/12/2020
+
+### Bid number : 12
+
+### Task
+
+   * Python project(Realtourhub)
+     
+     > I worked on "follow pros" part - modified database tables and backend code. (50%)
+   
+### Creating account.
+
+  > I had a discussion with my client to create a new Upwork account.
+  
+  > I made a new Guru account.
+  
+
 # 1/10/2020
 
 ### Bid number : 7
