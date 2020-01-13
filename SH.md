@@ -1,3 +1,29 @@
+# 1/13/2020
+
+### Bid number 
+  
+  * Freelancer : 50
+  * Upwork: 3
+  * Guru:15
+### Task 
+
+  * I didn't work because I haven't be paid for my work yet.
+  
+### Creating account.
+
+  > I had discussions with May(English) and Ibrahim(Nigerian) to create a new Upwork account.
+  
+### Study
+
+  * Angluar
+    
+    > I reviewed basics with project.
+    
+  * ES6
+  
+    > I studied the features in ES6.
+
+
 # 1/12/2020
 
 ### Bid number : 12
