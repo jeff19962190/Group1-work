@@ -1,3 +1,23 @@
+## 01/13
+**_Done_**
+
+   * Jack1993116/JUTrello
+   
+   * I have built the user board page.
+   
+      Not finished yet.
+      I am making drog and drop fuction.
+   
+**_Todo_**
+   
+   * Go on the board page.
+   
+   * Finish drog and drop function between lists.
+      And save that result to DB.
+      
+   * Find the mistakes of dashboard page and correct those.
+   
+   
 ## 01/12
 **_Done_**
 
