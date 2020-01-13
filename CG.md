@@ -1,3 +1,145 @@
+# 01/12/2020
+
+## In progress Projects: 
+
+**_Done:_**
+[Year Plan Report]
+[Magento]
+
+>Customize Porto Theme to Build Pages (100%)
+>Build Header and Footer Block(100%)
+
+**_Todo:_**
+
+[Magento]
+
+>1. Implement header and footer on home page (100%)
+>2. Building About us page
+
+## Bidding
+
+>Sent 3 proposals on guru.com.
+
+
+
+
+
+
+# 01/10/2020
+
+## In progress Projects: 
+
+**_Done:_**
+
+[Magento]
+
+>1. Complete Requirement Report(100%)
+>2. Analyze Web Flow
+>2. Home page (90%)
+
+**_Todo:_**
+
+[Magento]
+
+>1. Implement header and footer on home page (100%)
+>2. Building About us page
+
+## Bidding
+
+>Sent 3 proposals on guru.com.
+
+
+
+
+# 01/09/2020
+
+## In progress Projects: 
+
+**_Done:_**
+
+[Magento]
+
+>1. Fix the issues and errors while integrating Porto theme with magento 2.3.3
+>2. Home page (90%)
+
+**_Todo:_**
+
+[Magento]
+
+>1. Implement header and footer on home page (100%)
+>2. Building About us page
+
+## Bidding
+
+>Sent 3 proposals on guru.com.
+
+
+# 01/08/2020
+
+## In progress Projects: 
+
+**_Done:_**
+
+[Magento]
+
+>1. Implement header and footer on home page (99%)
+
+**_Todo:_**
+
+[Magento]
+
+>1. Implement header and footer on home page (100%)
+
+## Bidding
+
+[I will do send 10 proposals every day.]
+
+
+
+# 01/07/2020
+
+## In progress Projects: 
+
+**_Done:_**
+
+[Magento]
+
+>1. Install Magento CE to deploy on staging website
+>2. Install a new Porto Theme on magento
+>3. Implement header and footer on home page (30%)
+
+**_Todo:_**
+
+[Magento]
+
+>1. Implement header and footer on home page (30%)
+>2. Deploy the result to my local staging site.
+>3. Configure Magento Marketplace (Multi Vendor | Multi Store) (100%)
+
+## Bidding
+
+**_Done:_**
+
+>I didn't bid anything today because there is not any job to match my skills.
+
+## Study Plan
+
+**_Done:_**
+
+>1. Magento Back-end development
+>2. Porto Theme Customization
+
+**_Todo:_**
+>1. Porto Theme Customization
+>2. Magento Marketplace Configuration (Multi Vendor | Multi Store)
+
+ <hr>
+ <hr>
+
+
+
+
+
 # 01/06/2020
 
 ## In progress Projects: 

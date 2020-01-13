@@ -1,3 +1,100 @@
+## 01/12
+**_Done_**
+
+   * Jack1993116/JUTrello
+   
+   * I have gone on dashboard page.
+   
+      I have done creating new board and saving in database and geting board data from MngooDB.
+   
+**_Todo_**
+   
+   * Go on the dashboard page.
+   
+      Build the main page of new board.
+   
+   * Make a plan of this year.
+   
+   
+## 01/10
+**_Done_**
+
+   * Jack1993116/JUTrello
+   
+   * I have studied the passport-google module.
+
+   * I have designed database for dashboard page.
+   
+   * I have gone on dashboard page.
+      
+   
+   
+**_Todo_**
+   
+   * Go on the dashboard page.
+   
+   * Go on studing about social login method using passport like google passport.
+   
+   
+## 01/09
+**_Done_**
+
+   * Jack1993116/JUTrello
+
+   * I have studied about token and passport again.
+   
+   * I have analysed mern example using JWT passport and local passport and understand the passport.
+   
+   * I am building dashboard page using jwt passport to verify the request.
+    
+      Not finished yet.
+   
+   
+**_Todo_**
+   
+   * Go on the dashboard page.
+   
+   * Study social login method using passport like google passport.
+   
+   * Design the database of trello site.
+   
+   
+## 01/08
+**_Done_**
+
+   * Jack1993116/JUTrello
+
+   * I have studied about token and passport.
+   
+   * I have analysed mern example using passport and token.
+   
+   * I am building dash board page.
+   
+   
+**_Todo_**
+   
+   * Build the dashboard page.
+   
+   * Study passport.
+   
+## 01/07
+**_Done_**
+
+   * Jack1993116/JUTrello
+
+   * I have studied about token.
+   
+   * I have studied about thunk middleware.
+   
+   * I have built the login page and sign up page using token.
+   
+   
+**_Todo_**
+   
+   * Study the passport and bulid the login page usign that.
+   
+   * Build the dashboard page.
+   
 ## 01/06
 **_Done_**
 

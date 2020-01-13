@@ -1,19 +1,5 @@
-## 2020/1/13
 
-> Studing Status
-
-* _jack1993116/trello_
-* I've made a Project view page but yet completed.
-  * I've add a component of Task.
-  * I've add a header of Project view page.
-
-> Plan
-
-* Continue implementing main page.
-  * add redux to main page.
-  * add drag and drop function to task list.
-  
-## 2020/1/12
+## 2020/1/11
 
 > Studing Status
 

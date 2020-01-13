@@ -1,3 +1,90 @@
+# 1/12/2020
+
+### Bid number : 12
+
+### Task
+
+   * Python project(Realtourhub)
+     
+     > I worked on "follow pros" part - modified database tables and backend code. (50%)
+   
+### Creating account.
+
+  > I had a discussion with my client to create a new Upwork account.
+  
+  > I made a new Guru account.
+  
+
+# 1/10/2020
+
+### Bid number : 7
+
+### Task
+
+   * Python project(Realtourhub)
+     
+     > I worked on "follow pros" part - modified database tables and backend code. (30%)
+   
+### Study
+
+  > I researched about Squarespace framework.
+  
+  > I studied the concept of SOLID coding style.
+     
+
+# 1/9/2020
+
+### Bid number : 10
+
+### Task
+
+   * Python project(Realtourhub)
+     
+     > I fixed profile page components according to the client's new requirements.
+     
+     > I built the logic when we follow pros. 
+     
+### Study
+
+    * I studied about passport and JWT.
+    
+    * I researched about Angular Metronic themes and Angular CDK.
+   
+   
+# 1/8/2020
+
+### Bid number : 5
+
+### Task
+
+   * Python project(Realtourhub)
+      >  I have worked Professional User search page(100%).
+      
+      >  I fixed Pro login registeration form according to the new requirement.
+   
+   
+      
+
+# 1/7/2020
+
+### Bid number : 4
+
+### Task
+
+   * Python project(Realtourhub)
+      >  I have worked Professional User search page(90%).
+     
+   * PHP project(Tucasapanama)
+   
+      >  I built the logic of managing data.
+
+### Study
+    
+    * I reviewed Angular basics via course videos. 
+    
+    * And I studied "5 bad habits of developers" on Linkedin.
+    
+
 # 1/6/2020
 
 ### Bid number : 3
