@@ -1,4 +1,18 @@
+## 2020/1/13
 
+> Studing Status
+
+* _jack1993116/trello_
+* I've created a project view page.
+  * I've add header of project view page.
+  * I've add a component for project list.
+
+> Plan
+
+* Continue implementing main page.
+  * add redux to main page.
+  * implement drag and drop function.
+  
 ## 2020/1/11
 
 > Studing Status
