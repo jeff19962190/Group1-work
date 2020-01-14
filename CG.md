@@ -1,3 +1,31 @@
+# 01/14/2020
+
+## In progress Projects: 
+
+**_Done:_**
+
+[Magento]
+
+>1. Make sure the features on design by disussing with Alex
+>2. Building About Us Page (70%)
+>3. Create Blocks (Homeleftside | ItemLcationSearch | PriceSearch | FeaturedProductView)
+>4. LoginIn & Register Page (70%)
+
+
+**_Todo:_**
+
+[Magento]
+
+>1. Complete Demo.
+>2. Deploy Demo and Discuss the project in details with Alex.
+
+## Bidding
+
+>Sent 2 proposals on guru.com.
+
+
+
+
 # 01/13/2020
 
 ## In progress Projects: 
