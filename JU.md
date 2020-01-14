@@ -1,3 +1,34 @@
+## 01/14
+**_Done_**
+
+   * Jack1993116/JUTrello
+   
+   * I have studied coding style of react.
+   
+   * I have solved two easy algoridem problems in leetcode.com.
+   
+      I have created a new repository on github and pushed the answers.
+   
+   * I have built the user dashboard page.
+   
+      Not finished yet.
+      
+      I made star function that adds favorite boards to starred list.
+      
+   
+   
+   
+**_Todo_**
+   
+   * Solve another two problems of leetcode.com.
+   
+   * Go on the trello.
+   
+      build the main fuction pages first.
+   
+   * Build code as following the coding rule.
+      
+
 ## 01/13
 **_Done_**
 
