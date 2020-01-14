@@ -3,7 +3,7 @@
 > Studing Status
 
 * _jack1993116/trello_
-* _ITProfessor40148/Alorithms
+* _ITProfessor40148/Alorithms_
 * I have solve two problems in leetcode.com.
 * I've connected a project view page to redux.
   * I've add list item component.
