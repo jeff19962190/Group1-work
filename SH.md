@@ -1,3 +1,25 @@
+# 1/14/2020
+
+### Bid number 
+  
+  * Freelancer : 20
+  
+### Task 
+
+  * I discussed about teamwork of this project with Ibrahim and his friend.
+  
+  
+### Study
+
+  * Angluar
+    
+    > I reviewed debugging.
+    
+  * Algorithm
+  
+    > I solved 2 problems.
+    
+
 # 1/13/2020
 
 ### Bid number 
