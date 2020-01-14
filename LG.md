@@ -1,3 +1,20 @@
+## 2020/1/14
+
+> Studing Status
+
+* _jack1993116/trello_
+* _ITProfessor40148/Alorithms
+* I have solve two problems in leetcode.com.
+* I've connected a project view page to redux.
+  * I've add list item component.
+  * I've add a redux to project view so it can be change if datas changed.
+
+> Plan
+
+* Continue implementing main page.
+  * complete create board use case.
+  * complete create team use case.
+  
 ## 2020/1/13
 
 > Studing Status
