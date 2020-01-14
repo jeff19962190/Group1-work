@@ -1,3 +1,30 @@
+# 01/13/2020
+
+## In progress Projects: 
+
+**_Done:_**
+
+[Magento]
+
+>1. Building About Us Page (50%)
+>2. Create Blocks (Homeleftside | ItemLcationSearch | PriceSearch | FeaturedProductView)
+>3. LoginIn & Register Page (50%)
+>4. Customization Categories and Product View Layout (100%)
+
+**_Todo:_**
+
+[Magento]
+
+>1. Complete Demo.
+>2. Deploy Demo and Discuss the project in details with Alex.
+
+## Bidding
+
+>Sent 3 proposals on peopleperhour.com.
+
+
+
+
 # 01/12/2020
 
 ## In progress Projects: 
