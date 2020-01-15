@@ -1,3 +1,20 @@
+## 2020/1/15
+
+> Studing Status
+
+* _jack1993116/trello_
+* _ITProfessor40148/Algorithms_
+* I have solved two problems in leetcode.com.
+* I've connected a project view page to redux-saga.
+  * I add list item component's action.
+  * I add a search component with its animation.
+  * I add a create board use case.
+> Plan
+
+* Continue implementing main page.
+  * complete create team use case.
+  * connect to mongoose.
+  
 ## 2020/1/14
 
 > Studing Status
