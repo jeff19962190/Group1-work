@@ -1,3 +1,29 @@
+# 01/15/2020
+
+## In progress Projects: 
+
+**_Done:_**
+
+[Magento]
+
+>1. SignIn and Sign Up page (90%)
+>2. Building About Us Page (900%)
+>3. Create Blocks (Register | AuthorizationLink)
+>4. Prepaire Demo
+
+**_Todo:_**
+
+[Magento]
+
+>1. Create a special Document to develop Nowauction
+
+## Bidding
+
+>Sent 2 proposals on guru.com.
+
+
+
+
 # 01/14/2020
 
 ## In progress Projects: 
