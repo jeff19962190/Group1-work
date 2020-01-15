@@ -1,3 +1,31 @@
+# 1/15/2020
+
+### Bid number 
+  
+  * Freelancer : 15
+  
+### Task 
+
+  * I discussed about teamwork of this project with Ibrahim and his friend.
+  
+  * I modified User collection of database.
+  
+  * Modified Tour category types and changed the related parts.
+  
+  
+### Study
+
+  * Angluar
+    
+    > I reviewed component and databinding.
+    
+  * Algorithm
+    
+    > Heavyrain93116/algorithm
+  
+    > I solved 2 problems.
+    
+
 # 1/14/2020
 
 ### Bid number 
