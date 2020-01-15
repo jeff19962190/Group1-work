@@ -1,3 +1,36 @@
+## 01/15
+**_Done_**
+
+   * Jack1993116/JUTrello
+   
+   * WebDeveloper970903/leetcode
+   
+   * I have solved two easy algoridem problems in leetcode.com.
+   
+      Result is on the WebDeveloper970903/leetcode of GITHUB.
+      
+   * I have studied interview handbook course.
+   
+      Algorithm introduction.
+   
+   * I have built the user dashboard page.
+   
+      I have completed the star function of dashboard page.(connect to database )
+      
+   
+**_Todo_**
+   
+   * Solve another two problems of leetcode.com.
+   
+   * Go on the english course.
+   
+   * Go on the trello.
+   
+      Complete the group function.
+      
+   * Study a new technique of react.
+   
+
 ## 01/14
 **_Done_**
 
