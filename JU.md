@@ -1,3 +1,32 @@
+## 01/16
+**_Done_**
+
+   * Jack1993116/JUTrello
+   
+   * WebDeveloper970903/leetcode
+   
+   * I have solved two easy algoridem problems in leetcode.com.
+   
+   * I have built the user dashboard page.
+   
+      I have done creating the group and saving it to database.
+      
+      Also creating new board functiion is building.
+      
+**_Todo_**
+   
+   * Solve another two problems of leetcode.com.
+   
+   * Go on the english course.
+   
+   * Go on the trello.
+   
+      Complete the new board function.
+      
+      Build the board page(drag and drop).
+      
+   * Study a new technique of react.
+   
 ## 01/15
 **_Done_**
 
