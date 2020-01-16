@@ -1,3 +1,28 @@
+# 1/16/2020
+
+### Bid number 
+  
+  > Freelancer : 20
+  
+  > Guru : 10
+  
+  > Upwork : 4
+  
+### Task 
+
+  > I discussed about teamwork of this project with Ibrahim and his friend.
+    
+  > Modified Tour category types and changed the related parts.
+  
+  
+### Study
+
+  * Algorithm
+    
+    > Heavyrain93116/algorithm
+  
+    > I solved 2 problems.
+
 # 1/15/2020
 
 ### Bid number 
