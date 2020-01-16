@@ -6,9 +6,9 @@
 * _ITProfessor40148/Algorithms_
 * I have solved two problems in leetcode.com.
 * I've connected a project view page to redux-saga.
-  * I add list item component's action.
-  * I add a search component with its animation.
-  * I add a create board use case.
+  * I've added list item component's action.
+  * I've added a search component with its animation.
+  * I've added a create board use case.
 > Plan
 
 * Continue implementing main page.
