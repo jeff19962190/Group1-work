@@ -1,3 +1,30 @@
+# 01/16/2020
+
+## In progress Projects: 
+
+**_Done:_**
+
+[Magento]
+
+>1. Create Bitbucket repository & Upload Codebase to cPanel
+>2. Install Database on cPanel
+>3. Config settings on cPanel
+
+
+**_Todo:_**
+
+[Magento]
+
+>1. Create a special Document to develop Nowauction
+>2. User Dashboard
+
+## Bidding
+
+>Sent 2 proposals on peopleperhour.com.
+
+
+
+
 # 01/15/2020
 
 ## In progress Projects: 
@@ -7,7 +34,7 @@
 [Magento]
 
 >1. SignIn and Sign Up page (90%)
->2. Building About Us Page (900%)
+>2. Building About Us Page (90%)
 >3. Create Blocks (Register | AuthorizationLink)
 >4. Prepaire Demo
 
