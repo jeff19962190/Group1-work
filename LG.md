@@ -1,3 +1,20 @@
+## 2020/1/16
+
+> Studing Status
+
+* _jack1993116/trello_
+* _ITProfessor40148/Algorithms_
+* I have solved two problems in leetcode.com.
+* I've fixed some issues in frontend.
+* I've add boardSchema to backend.
+* I've learned about populate in mongoose.
+
+> Plan
+
+* Continue implementing main page.
+  * complete create board use case.
+  * complete create team modal box and team component.
+ 
 ## 2020/1/15
 
 > Studing Status
