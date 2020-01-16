@@ -10,6 +10,7 @@
 >2. Install Database on cPanel
 >3. Config settings on cPanel
 
+[Leetcode](https://github.com/beautyandbest27/leetcoder/tree/01.16)
 
 **_Todo:_**
 
