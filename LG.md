@@ -1,3 +1,19 @@
+## 2020/1/17
+
+> Studing Status
+
+* _jack1993116/trello_
+* _ITProfessor40148/Algorithms_
+* I have solved two problems in leetcode.com.
+* Search page is added.
+* Add Note use case implemented.
+* Create board page is added.
+
+> Plan
+
+* Continue implementing main page.
+  * Do communication between frontend and backend.
+ 
 ## 2020/1/16
 
 > Studing Status
