@@ -1,3 +1,30 @@
+## 01/17
+**_Done_**
+
+   * Jack1993116/JUTrello
+   
+   * WebDeveloper970903/leetcode
+   
+   * I have solved two easy algoridem problems in leetcode.com.
+   
+   * I have studied english course.
+   
+   * I have worked on the user dashboard page and board page.
+   
+   * I have analysed drag-drop example and studied react.
+      
+**_Todo_**
+   
+   * Solve another two problems of leetcode.com.
+   
+   * Go on the english course.
+   
+   * Go on the trello.
+      
+      Build the board page(drag and drop).
+      
+   * Study react.
+   
 ## 01/16
 **_Done_**
 
