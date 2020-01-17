@@ -1,3 +1,29 @@
+# 01/17/2020
+
+## In progress Projects: 
+
+**_Done:_**
+
+[Magento]
+
+>1. Create .htaccess files on cpanel 
+>2. Create .gitignore file on cpanel
+>3. Fix issues after install magento on cpanel
+
+[Leetcode](https://github.com/beautyandbest27/leetcoder/tree/01.17)
+
+**_Todo:_**
+
+[Magento]
+
+>1. Create a special Document to develop Nowauction
+>2. User Dashboard
+
+## Bidding
+
+>Sent 2 proposals on peopleperhour.com.
+
+
 # 01/16/2020
 
 ## In progress Projects: 
