@@ -6,7 +6,7 @@
 * _ITProfessor40148/Algorithms_
 * I have solved two problems in leetcode.com.
 * Search page is added.
-* Add Note use case implemented.
+* Add Note use case is implemented.
 * Create board page is added.
 
 > Plan
