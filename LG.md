@@ -1,3 +1,19 @@
+## 2020/1/19
+
+> Studing Status
+
+* _jack1993116/trello_
+* _ITProfessor40148/Algorithms_
+* I have solved three problems in leetcode.com.
+* Add menu content is added.
+* Add hint content is added.
+
+> Plan
+
+* Continue implementing main page.
+  * Do communication between frontend and backend.
+  * Add drag and drop use case
+ 
 ## 2020/1/17
 
 > Studing Status
