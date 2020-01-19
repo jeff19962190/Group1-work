@@ -1,3 +1,29 @@
+# 01/19/2020
+
+## In progress Projects: 
+
+**_Done:_**
+
+[Magento]
+
+>1. Repaire Local development environment(Reinstall Xampp backup Database)
+>2. Subscribe a special document to develop nowauction
+
+[Leetcode](https://github.com/beautyandbest27/leetcoder/tree/01.19)
+
+**_Todo:_**
+
+[Magento]
+
+>1. Create a special Document to develop Nowauction
+>2. User Dashboard
+
+## Bidding
+
+>Sent 2 proposals on peopleperhour.com.
+
+
+
 # 01/17/2020
 
 ## In progress Projects: 
