@@ -1,3 +1,33 @@
+## 01/20
+**_Done_**
+
+   * Jack1993116/JUTrello
+   
+   * WebDeveloper970903/leetcode
+   
+   * I have studied english course.
+   
+   * I have worked on the user board page.
+   
+      I worked on drag and drop function but not finished.
+   
+   * I have studied drag-drop in react.
+   
+   * I have studed javascript testing.
+   
+      
+**_Todo_**
+   
+   * Solve another two problems of leetcode.com.
+   
+   * Go on the english course.
+   
+   * Go on the trello.
+      
+      Complete drag and drop function.
+      
+   * Study javascript testing.
+      
 ## 01/19
 **_Done_**
 
