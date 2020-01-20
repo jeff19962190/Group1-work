@@ -1,3 +1,27 @@
+# 1/20/2020
+
+### Bid number 
+  
+  > Freelancer : 20
+
+  > Upwork : 1
+  
+  > Angel : 5
+  
+### Study
+  
+  * Angluar
+    
+    > I reviewed directives.
+
+  * Algorithm
+    
+    > Heavyrain93116/algorithm
+  
+    > I solved 2 problems.
+
+
+
 # 1/19/2020
 
 ### Bid number 
@@ -10,7 +34,7 @@
   
   * Angluar
     
-    > I reviewed directives.
+    > I reviewed component binding and directives.
 
   * Algorithm
     
