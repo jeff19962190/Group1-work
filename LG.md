@@ -1,3 +1,17 @@
+## 2020/1/20
+> Studing Status
+
+* _jack1993116/trello_
+* _ITProfessor40148/Algorithms_
+* I have solved two problems in leetcode.com.
+* Invite component is added.
+* I'm doing drag and drop of list.
+
+> Plan
+
+* Continue implementing main page.
+  * continue drag and drop of list
+ 
 ## 2020/1/19
 
 > Studing Status
