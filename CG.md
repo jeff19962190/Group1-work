@@ -10,9 +10,9 @@
 >2. About Page and Authentication Page
 >3. Subscribe a special document to develop nowauction
 
-[Prepaire Forum]
+[Prepare Forum]
 
->1. Study Html Coding Styl to prepaire forum
+>1. Study Html Coding Styl to prepare forum
 
 [Leetcode](https://github.com/beautyandbest27/leetcoder/tree/01.20)
 
