@@ -1,3 +1,34 @@
+# 01/20/2020
+
+## In progress Projects: 
+
+**_Done:_**
+
+[Magento]
+
+>1. Development APIs for Search feature and Buyer Dashboad and Seller Dashboard
+>2. About Page and Authentication Page
+>3. Subscribe a special document to develop nowauction
+
+[Prepare Forum]
+
+>1. Study Html Coding Styl to prepare forum
+
+[Leetcode](https://github.com/beautyandbest27/leetcoder/tree/01.20)
+
+**_Todo:_**
+
+[Magento]
+
+>1. Create a special Document to develop Nowauction
+>2. User Dashboard
+>3. Development APIs
+
+## Bidding
+
+>Sent 2 proposals on peopleperhour.com.
+
+
 # 01/19/2020
 
 ## In progress Projects: 
