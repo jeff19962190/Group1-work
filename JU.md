@@ -9,9 +9,12 @@
    
    * I have worked on the user board page.
    
-      I worked on drag and drop function.
+      I worked on drag and drop function but not finished.
    
    * I have studied drag-drop in react.
+   
+   * I have studed javascript testing.
+   
       
 **_Todo_**
    
@@ -22,6 +25,8 @@
    * Go on the trello.
       
       Complete drag and drop function.
+      
+   * Study javascript testing.
       
 ## 01/19
 **_Done_**
