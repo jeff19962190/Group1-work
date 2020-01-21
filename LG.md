@@ -1,3 +1,17 @@
+## 2020/1/21
+> Studing Status
+
+* _jack1993116/trello_
+* _ITProfessor40148/Algorithms_
+* I have solved two problems in leetcode.com.
+* Team component is added.
+* I've implemented drag and drop of list.
+
+> Plan
+
+* Continue implementing main page.
+  * specify team component.
+ 
 ## 2020/1/20
 > Studing Status
 
