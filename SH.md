@@ -1,3 +1,24 @@
+# 1/21/2020
+
+### Bid number 
+  
+  > Freelancer : 10
+  
+### Task
+
+  > Export table data to xlsx format excel file.(Tharmini-Sri Lanka)
+  
+  > Web site using google map api.(James Dose-United Kingdom)
+
+### Study
+  
+  * Algorithm
+    
+    > Heavyrain93116/algorithm
+  
+    > I solved 2 problems.
+
+
 # 1/20/2020
 
 ### Bid number 
