@@ -1,3 +1,31 @@
+## 01/22
+**_Done_**
+
+   * Jack1993116/JUTrello
+   
+   * WebDeveloper970903/leetcode
+   
+   * I have studied english course and solved two algorithm problems.
+   
+   * I have worked on my trello.
+   
+      I have finished side panel function of nave bar.
+      
+      I have changed dashboard interface.
+   
+   * I have studed javascript testing and react-beautiful-dnd.
+      
+**_Todo_**
+   
+   * Solve another two problems of leetcode.com and go on the english course..
+   
+   * Go on the trello.
+      
+      Complete the functions of trello.
+      
+   * Study javascript testing and React.
+    
+
 ## 01/21
 **_Done_**
 
