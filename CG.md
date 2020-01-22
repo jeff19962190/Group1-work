@@ -1,3 +1,38 @@
+# 01/22/2020
+
+## In progress Projects: 
+
+**_Done:_**
+
+[Magento]
+
+>1. Stores Inquiry Page and Integrate Google map API(100%)
+>2. Development APIs for Search feature and Buyer Dashboad and Seller Dashboard
+>3. Stores Inquiry Page and Integrate Google map API
+>4. Plan todo list and estimate time line on trello
+>5. Subscribe a special document to develop nowauction
+
+[Prepare Forum]
+
+>1. Study Html Coding Styl to prepare forum
+
+[Leetcode](https://github.com/beautyandbest27/leetcoder/tree/01.22)
+
+**_Todo:_**
+
+[Magento]
+
+>1. Create a special Document to develop Nowauction
+>2. Buyer Dashboard & Vendor Setup Page
+>3. Plan todo list and estimate time line on trello
+>4. Development APIs
+
+## Bidding
+
+>Sent 2 proposals on peopleperhour.com.
+
+
+
 # 01/21/2020
 
 ## In progress Projects: 
