@@ -1,3 +1,17 @@
+## 2020/1/22
+> Studing Status
+
+* _jack1993116/trello_
+* _ITProfessor40148/Algorithms_
+* I have solved two problems in leetcode.com.
+* Team component's part 1 is added.
+* I'm adding base db schema to backend.
+
+> Plan
+
+* Continue backend
+  * complete db operation.
+ 
 ## 2020/1/21
 > Studing Status
 
