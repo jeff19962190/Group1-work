@@ -2,6 +2,17 @@
 
 ### Bid number 
   
+  > I could't bid any. 
+  
+### Task
+  
+  > Web site using google map api(100%).(James Dose-United Kingdom)
+
+
+# 1/21/2020
+
+### Bid number 
+  
   > Freelancer : 10
   
 ### Task
