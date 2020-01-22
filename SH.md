@@ -6,9 +6,9 @@
   
 ### Task
 
-  > Export table data to xlsx format excel file.(Tharmini-Sri Lanka)
+  > Export table data to xlsx format excel file(100%).(Tharmini-Sri Lanka)
   
-  > Web site using google map api.(James Dose-United Kingdom)
+  > Web site using google map api(50%).(James Dose-United Kingdom)
 
 ### Study
   
