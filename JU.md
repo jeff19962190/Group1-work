@@ -1,3 +1,26 @@
+
+## 01/23
+**_Done_**
+
+   * Jack1993116/JUTrello
+   
+   * WebDeveloper970903/leetcode
+   
+   * I have solved two algorithm problems.
+   
+   * I have studed javascript testing framework Mocha.
+      
+**_Todo_**
+   
+   * Solve another two problems of leetcode.com and go on the english course.
+   
+   * Go on the trello.
+      
+      Complete the functions of trello.
+      
+   * Study javascript testing and React.
+   
+    
 ## 01/22
 **_Done_**
 
